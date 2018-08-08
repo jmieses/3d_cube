@@ -1,0 +1,84 @@
+﻿Build started 2/5/2018 8:17:53 AM.
+     1>Project "C:\Users\Cesarito\Desktop\Spring 2018\MEC 572\hw\hw1\HW1 Skeleton Program\transf.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt color.cpp interaction.cpp main.cpp
+         color.cpp
+     1>color.cpp(21): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>color.cpp(22): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>color.cpp(23): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>color.cpp(24): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>color.cpp(25): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>color.cpp(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+         interaction.cpp
+         main.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(758): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(802): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(816): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(817): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(858): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(898): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(955): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(997): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(1293): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(1393): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(1489): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(1592): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(1642): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL/glui.h(1757): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+     1>main.cpp(93): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(94): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(95): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(111): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(112): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(113): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(114): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(115): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(116): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(117): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(118): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(119): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(128): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(129): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(130): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>main.cpp(142): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Cesarito\Desktop\Spring 2018\MEC 572\hw\hw1\HW1 Skeleton Program\Release\transf.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Cesarito\Desktop\Spring 2018\MEC 572\hw\hw1\HW1 Skeleton Program\Release\transf.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Cesarito\Desktop\Spring 2018\MEC 572\hw\hw1\HW1 Skeleton Program\Release\transf.lib" /MACHINE:X86 /SAFESEH Release\color.obj
+         Release\interaction.obj
+         Release\main.obj
+     1>interaction.obj : error LNK2001: unresolved external symbol __imp__glutSetWindow@4
+     1>interaction.obj : error LNK2001: unresolved external symbol __imp__glutPostRedisplay@0
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutSolidCube@8
+     1>main.obj : error LNK2001: unresolved external symbol __imp____glutCreateWindowWithExit@8
+     1>main.obj : error LNK2001: unresolved external symbol __imp____glutInitWithExit@12
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowPosition@8
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutMotionFunc@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutSwapBuffers@0
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutReshapeFunc@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutInitDisplayMode@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutSpecialFunc@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutMouseFunc@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutKeyboardFunc@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutMainLoop@0
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowSize@8
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glutDisplayFunc@4
+     1>C:\Users\Cesarito\Desktop\Spring 2018\MEC 572\hw\hw1\HW1 Skeleton Program\Release\transf.exe : fatal error LNK1120: 16 unresolved externals
+     1>Done Building Project "C:\Users\Cesarito\Desktop\Spring 2018\MEC 572\hw\hw1\HW1 Skeleton Program\transf.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.08

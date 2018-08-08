@@ -1,0 +1,13 @@
+﻿Build started 8/7/2018 8:23:22 PM.
+     1>Project "C:\Users\cesar\Desktop\Files\Classes\Spring 2018\MEC 572\hw\hw1\Johnny_Mieses_Q6_H1\Johnny_Mieses_Q6_H1\transf.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cesar\Desktop\Files\Classes\Spring 2018\MEC 572\hw\hw1\Johnny_Mieses_Q6_H1\Johnny_Mieses_Q6_H1\Debug\transf.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\freeglut\lib opengl32.lib glui32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\cesar\Desktop\Files\Classes\Spring 2018\MEC 572\hw\hw1\Johnny_Mieses_Q6_H1\Johnny_Mieses_Q6_H1\Debug\transf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\cesar\Desktop\Files\Classes\Spring 2018\MEC 572\hw\hw1\Johnny_Mieses_Q6_H1\Johnny_Mieses_Q6_H1\Debug\transf.lib" /MACHINE:X86 /SAFESEH Debug\color.obj
+         Debug\interaction.obj
+         Debug\main.obj
+     1>color.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         transf.vcxproj -> C:\Users\cesar\Desktop\Files\Classes\Spring 2018\MEC 572\hw\hw1\Johnny_Mieses_Q6_H1\Johnny_Mieses_Q6_H1\Debug\transf.exe
+     1>Done Building Project "C:\Users\cesar\Desktop\Files\Classes\Spring 2018\MEC 572\hw\hw1\Johnny_Mieses_Q6_H1\Johnny_Mieses_Q6_H1\transf.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.95
